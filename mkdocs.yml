@@ -1,0 +1,61 @@
+# Replace the text below to customize your site
+site_name: Nicholas Niles
+site_description: Fab Academy documentation site for Nicholas Niles
+site_author: Nicholas Niles
+copyright: Copyright 2022 Nicholas Niles - Creative Commons Attribution Non Commercial
+
+site_url: https://fabacademy.org/2022/labs/charlotte/students/nicholas-niles/
+
+extra:
+  # Set your own social media below (or remove)
+  social:
+    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/fabacademany
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/fabacademany
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/fabacademany
+    - icon: fontawesome/brands/linkedin
+      link: "https://linkedin.com/in/academany"
+
+theme: 
+  name: material
+  palette:
+    # Toggle light mode
+    - scheme: default
+      favicon: images/favicon.svg
+      primary: deep orange 
+      accent: deep purple
+      toggle:
+        icon:  material/weather-night
+        name: Switch to the Dark Side
+
+    # Toggle dark mode
+    - scheme: slate
+      favicon: images/favicon.svg
+      primary: deep orange 
+      accent: deep purple 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to Light mode
+  features:
+    - navigation.tabs
+    - navigation.instant
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      # Read more: https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/options/#enabled
+      enabled: !ENV [ENABLED_GIT_REVISION_DATE, False]
+
+markdown_extensions:
+  - extra
+  - smarty
+  - admonition
+  - attr_list
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
