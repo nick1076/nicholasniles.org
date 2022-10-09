@@ -1,4 +1,4 @@
-# Multiplayer FPS Project (Unnamed)
+# Game - Multiplayer FPS Project
 
 | Title | Description |
 | ----------- | ------------------------------------ |

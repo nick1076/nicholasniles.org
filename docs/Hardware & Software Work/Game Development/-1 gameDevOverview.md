@@ -1,4 +1,4 @@
-# Game Development - An Overview
+# Overview
 
 I love making games and have overall poured thousands of hours into developing games for the single purpose of having fun and because I enjoy doing it. I know both Unity as well as C# incredibly well, and am confident I could make anything using the two together.
 

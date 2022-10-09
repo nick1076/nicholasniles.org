@@ -1,4 +1,4 @@
-# Proelium (Sandbox)
+# Game - Proelium
 
 | Title | Description |
 | ----------- | ------------------------------------ |
