@@ -1,44 +1,24 @@
 # Replace the text below to customize your site
 site_name: Nicholas Niles
-site_description: Fab Academy documentation site for Nicholas Niles
+site_description: Portfolio
 site_author: Nicholas Niles
 copyright: Copyright 2022 Nicholas Niles - Creative Commons Attribution Non Commercial
 
-site_url: https://fabacademy.org/2022/labs/charlotte/students/nicholas-niles/
+site_url: https://nicholasniles.org
 
 extra:
   # Set your own social media below (or remove)
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/fabacademany
-    - icon: fontawesome/brands/facebook
-      link: https://facebook.com/fabacademany
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/fabacademany
-    - icon: fontawesome/brands/linkedin
-      link: "https://linkedin.com/in/academany"
 
 theme: 
   name: material
   palette:
     # Toggle light mode
-    - scheme: default
-      favicon: images/favicon.svg
-      primary: deep orange 
-      accent: deep purple
-      toggle:
-        icon:  material/weather-night
-        name: Switch to the Dark Side
-
-    # Toggle dark mode
     - scheme: slate
-      favicon: images/favicon.svg
-      primary: deep orange 
-      accent: deep purple 
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to Light mode
+      favicon: test.svg
+      primary: red 
+      accent: deep purple
   features:
     - navigation.tabs
     - navigation.instant
