@@ -31,7 +31,7 @@
 I ended up actually releasing this game on October 8th, 2022, about a year later than when I finished it. I decided to take this leap since I had nothing to lose and it would be better than simply keeping it to rot on my desktop. I ended up releasing it to itch.io (Popular distributer) and it ended up being a huge sucsess and taking off. Here is it's official store page:
 
 <center>
-<iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/1135056"><a href="https://nick-niles.itch.io/cartoon-cat-demo">Cartoon Cat (DEMO) by Nick Niles</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1135056?bg_color=000000&amp;fg_color=ffffff&amp;link_color=fa7f06&amp;border_color=ffffff" width="552" height="167"><a href="https://nick-niles.itch.io/cartoon-cat-demo">Cartoon Cat (DEMO) by Nick Niles</a></iframe>
 </center>
 
 Within the first day, 3 seperate YouTuber's ended up making a let's play/gameplay walkthrough of the entire game, and I was thrilled by this. Launch day with 0 marketing received around 79 views and 21 downloads, with day two continuing and even beating day 1. Here are some of the videos people made:
