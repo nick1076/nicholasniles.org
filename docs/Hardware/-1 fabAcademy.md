@@ -1,1 +1,5 @@
 # Education - Fab Academy
+
+Fab Academy is an international MIT-led rigurous engineering program that spans 7 months, begining in January and ending typically in July. Each week you tune into an online lecture led by Dr. Neil Gershenfeld, who discusses and teaches the week's fabrication skill. Each week you are required to complete and document the entire assignment given to you and as mentioned each week is different. This gives you exposure to many fields of engineering as well as teaching you many valuable fabrication skills, but falling behind in the class can be dangerous as the work piles up very quickly. Local and Global evaluators evaluate each of your week's documentation and work, and eventually you present your final capstone project to Dr. Gershenfeld in mid-June, which can be very stressful. I worked out of the Charlotte Latin School Fab Lab, the only highschool avaliable Fab Lab worldwide, and I graduated Fab Academy as a sofmore in highschool. Visit my page and review my work below!
+
+[Visit my Fab Academy Documentation!](https://fabacademy.org/2022/labs/charlotte/students/nicholas-niles/){ .md-button .md-button--primary }
